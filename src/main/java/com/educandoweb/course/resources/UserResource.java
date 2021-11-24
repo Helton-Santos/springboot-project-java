@@ -1,4 +1,4 @@
-// Controlador Rest
+// Controlador Rest / Rest Controller
 
 package com.educandoweb.course.resources;
 
